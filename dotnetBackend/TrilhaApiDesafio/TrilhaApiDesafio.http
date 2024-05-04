@@ -1,0 +1,6 @@
+@TrilhaApiDesafio_HostAddress = http://localhost:5224
+
+GET {{TrilhaApiDesafio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
