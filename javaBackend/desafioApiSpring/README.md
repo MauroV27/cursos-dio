@@ -2,4 +2,4 @@ Projeto feito para o desafio : Publicando Sua API REST na Nuvem Usando Spring Bo
 
 Foi desenvolvida uma API simples de tarefas usando o armazenamento em memória com o H2. O projeto contem um CRUD completo para o gerenciamento de tasks via API, conforme apresentado na imagem abaixo. 
     
-![Print da interface do Swagger mostrando os endpoints da API](./.github/Swagger UI Task Controller API Spring.png)
+<img src="./.github/Swagger UI Task Controller API Spring.png" alt="Print da interface do Swagger mostrando os endpoints da API"/>
