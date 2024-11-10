@@ -1,0 +1,22 @@
+.container__menu-bar  {
+    display: flex;
+    flex-direction: row;
+}
+
+.container__menu-bar > ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.container__menu-bar > ul > li {
+    margin-right: 20px;
+    list-style: none;
+}
+
+.container__menu-bar > ul > li > a:hover {
+    color: #bbb;
+}
+
+.menu-bar__logo {
+    margin-right: 32px;
+}

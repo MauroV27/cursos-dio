@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "image_url": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/ANGULAR.png",
+    "title": "Deploy de Aplicações Angular: Uma Introdução Completa",
+    "description": "Aprenda a deployar suas aplicações Angular em diferentes plataformas, como o Firebase, Netlify e AWS. Neste guia, você encontrará instruções passo a passo para configurar o ambiente de deploy, configurar o build da aplicação e publicar seu projeto. Descubra as melhores práticas para deploy de aplicações Angular e garantir a disponibilidade do seu site."
+  },
+  {
+    "id": "3",
+    "image_url": "https://i0.wp.com/miloszeljko.com/wp-content/uploads/2023/05/angular-lifecycle-hooks.png",
+    "title": "Explorando o Component Lifecycle Hooks no Angular",
+    "description": "Descubra como utilizar os lifecycle hooks do Angular para otimizar o ciclo de vida dos seus componentes. Aprenda a interagir com o DOM, realizar tarefas assíncronas e muito mais. Neste guia completo, você encontrará exemplos práticos e dicas para dominar os hooks ngOnInit, ngOnChanges, ngDoCheck, ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit e ngAfterViewChecked."
+  },
+  {
+    "id": "4",
+    "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*T61t6yF0OGMM9ooZ4dIqcQ.png",
+    "title": "Construindo Formulários Reativos com Angular: Um Guia Completo",
+    "description": "Aprenda a criar formulários reativos poderosos e flexíveis utilizando o Angular Reactive Forms Module. Descubra como validar dados, criar formulários complexos e otimizar a experiência do usuário. Neste tutorial, você aprenderá a construir formulários desde o básico até os conceitos mais avançados."
+  },
+  {
+    "id": "7",
+    "image_url": "https://miro.medium.com/v2/resize:fit:759/1*JCXpsIIoc21cj3Ea8PdnjQ.png",
+    "title": "Angular Material: Personalizando Sua Aplicação",
+    "description": "Dê um novo visual à sua aplicação Angular utilizando o Angular Material. Neste guia, você aprenderá a personalizar os componentes do Angular Material, criar temas personalizados e construir interfaces de usuário atraentes e consistentes. Descubra como utilizar as ferramentas e recursos do Angular Material para criar experiências de usuário incríveis."
+  },
+  {
+    "id": "9",
+    "image_url": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/ANGULAR.png",
+    "title": "Gerenciando Estados em Aplicações Angular com NgRx",
+    "description": "Descubra como gerenciar o estado de suas aplicações Angular de forma eficiente e escalável utilizando o NgRx. Aprenda os conceitos fundamentais do NgRx, como actions, reducers e effects. Neste tutorial, você construirá uma aplicação simples para entender os benefícios do NgRx e como ele pode melhorar a arquitetura de suas aplicações."
+  },
+  {
+    "id": "12",
+    "image_url": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/ANGULAR.png",
+    "title": "Testando Componentes Angular com Jest e Angular Testing Library",
+    "description": "Garantir a qualidade do seu código Angular é fundamental. Neste tutorial, você aprenderá a escrever testes unitários e de integração para seus componentes Angular utilizando Jest e Angular Testing Library. Descubra como simular interações com o usuário, testar o comportamento dos componentes e garantir a robustez da sua aplicação."
+  },
+  {
+    "id": "17",
+    "image_url": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/ANGULAR.png",
+    "title": "Otimizando o Desempenho de Aplicações Angular",
+    "description": "Aprenda a otimizar o desempenho de suas aplicações Angular para garantir uma experiência de usuário rápida e responsiva. Neste guia, você descobrirá técnicas para reduzir o tempo de carregamento, minimizar o bundle size e melhorar a performance geral da sua aplicação. Abordaremos tópicos como lazy loading, change detection, e otimização de builds."
+  }
+
+]
